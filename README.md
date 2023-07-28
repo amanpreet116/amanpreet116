@@ -1,8 +1,9 @@
 ### Hi there 👋
 ### My name is [Amanpreet Kour](https://www.linkedin.com/in/amanpreet-kour-45286a1b9/)
 
- I am pursuing my Computer Science Degree currently in my final year, As of now, I am focused on Full Stack Web Development but still, wish to explore many fields. ⚡
- ![image](https://github.com/amanpreet116/amanpreet116/assets/77164099/a93de3eb-2c62-4e68-97ff-cc8d46b2faba)
+ I am pursuing my Computer Science Degree currently in my final year,                                ![image](https://github.com/amanpreet116/amanpreet116/assets/77164099/a93de3eb-2c62-4e68-97ff-cc8d46b2faba)
+ As of now, I am focused on Full Stack Web Development but still, wish to explore many fields. ⚡
+
 
 
 <!--
