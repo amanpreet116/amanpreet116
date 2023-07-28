@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is [Amanpreet Kour]{https://www.linkedin.com/in/amanpreet-kour-45286a1b9/}
+### My name is [Amanpreet Kour](https://www.linkedin.com/in/amanpreet-kour-45286a1b9/)
 
  I am Saurav Mukherjee pursuing my Computer Science Degree currently in my final year, As of now, I am focused on Full Stack Web Development, Cloud Computing and Machine Learning but still, wish to explore many fields. ⚡
 
