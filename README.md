@@ -10,14 +10,14 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
 * 💼 Software Developer at **Meril Life Sciences (AI Department)**
-* 🧠 Building **Genomic Intelligence platforms** and **workspace-centric project management systems**
-* ⚙️ Experienced in developing **production-grade full-stack applications** and distributed backend services
+* ⚙️ Building scalable, production-grade platforms using **Next.js, React, Node.js, FastAPI, PostgreSQL, and distributed architectures**
+* 🧠 Developing AI-enabled applications with **LLM integrations, vector databases, and modern data pipelines**
 * 🔍 Strong foundation in **Data Structures & Algorithms** (500+ problems solved)
-* 🌱 Currently deepening expertise in **system design, scalable architectures, and cloud infrastructure**
+* 🌐 Experienced across the full stack — from designing responsive UI systems with **TailwindCSS & ShadCN** to engineering high-performance APIs
+* 🌱 Currently deepening expertise in **system design, cloud infrastructure, and high-scale backend architectures**
 * 💡 Passionate about solving complex engineering problems and shipping impactful products
 
 ---
