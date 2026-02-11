@@ -14,8 +14,7 @@
 
 * 💼 Software Developer at **Meril Life Sciences (AI Department)**
 * ⚙️ Building scalable, production-grade platforms using **Next.js, React, Node.js, FastAPI, PostgreSQL, and distributed architectures**
-* 🧠 Developing AI-enabled applications with **LLM integrations, vector databases, and modern data pipelines**
-* 🔍 Strong foundation in **Data Structures & Algorithms** (500+ problems solved)
+* 🔍 Strong foundation in **Data Structures & Algorithms** (300+ problems solved)
 * 🌐 Experienced across the full stack — from designing responsive UI systems with **TailwindCSS & ShadCN** to engineering high-performance APIs
 * 🌱 Currently deepening expertise in **system design, cloud infrastructure, and high-scale backend architectures**
 * 💡 Passionate about solving complex engineering problems and shipping impactful products
@@ -24,7 +23,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, Python, TypeScript, JavaScript, C
+**Languages:** Java, TypeScript, JavaScript
 **Frontend:** React.js, Next.js, TailwindCSS, ShadCN
 **Backend:** Node.js, Express.js, FastAPI, Django
 **Databases:** PostgreSQL, Cassandra, MongoDB
